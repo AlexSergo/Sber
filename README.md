@@ -8,4 +8,4 @@ ____
 
 ##### Видео прототипа
 ____
-![ Alt text](https://github.com/AlexSergo/Sber/blob/develop/video/sber.gif)
+![ Alt text](https://github.com/AlexSergo/Sber/blob/master/video/sber.gif)
